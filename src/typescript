@@ -1,0 +1,31 @@
+sgweb1:/home/d5000/fujian/src/platform/personal_test/wh/top4.0.2 # scp exe2_top3 10.35.4.52:/home/d5000/fujian/bin
+root@10.35.4.52's password: 
+scp: /home/d5000/fujian/bin: No such file or directory
+sgweb1:/home/d5000/fujian/src/platform/personal_test/wh/top4.0.2 # scp exe2_top3 10.35.4.52:/home/d5000/fujian/bin_/binm/bino/binn/bini/bint/bino/binr/bin[C[C[C[C
+root@10.35.4.52's password: 
+exe2_top3                                                                                                                    0%    0     0.0KB/s   --:-- ETAexe2_top3                                                                                                                  100%  639KB 639.1KB/s   00:00    
+sgweb1:/home/d5000/fujian/src/platform/personal_test/wh/top4.0.2 # scp exe2_top3 10.35.4.52:/home/d5000/fujian_monitor/bin:/home/d5000/fujian_monitor/bin[K:/home/d5000/fujian_monitor/bin[K6:/home/d5000/fujian_monitor/bin4:/home/d5000/fujian_monitor/bin
+root@10.35.4.64's password: 
+exe2_top3                                                                                                                    0%    0     0.0KB/s   --:-- ETAexe2_top3                                                                                                                  100%  639KB 639.1KB/s   00:00    
+sgweb1:/home/d5000/fujian/src/platform/personal_test/wh/top4.0.2 # scp exe2_top3 10.35.4.64:/home/d5000/fujian_monitor/bin[C:/home/d5000/fujian_monitor/bin[K2:/home/d5000/fujian_monitor/bin
+root@10.35.4.62's password: 
+exe2_top3                                                                                                                    0%    0     0.0KB/s   --:-- ETAexe2_top3                                                                                                                  100%  639KB 639.1KB/s   00:00    
+sgweb1:/home/d5000/fujian/src/platform/personal_test/wh/top4.0.2 # scp exe2_top3 10.35.4.62:/home/d5000/fujian_monitor/bin:/home/d5000/fujian_monitor/bin[K3:/home/d5000/fujian_monitor/bin
+root@10.35.4.63's password: 
+exe2_top3                                                                                                                    0%    0     0.0KB/s   --:-- ETAexe2_top3                                                                                                                  100%  639KB 639.1KB/s   00:00    
+sgweb1:/home/d5000/fujian/src/platform/personal_test/wh/top4.0.2 # scp exe2_top3 10.35.4.63:/home/d5000/fujian_monitor/bin:/home/d5000/fujian_monitor/bin[K:/home/d5000/fujian_monitor/bin[K7:/home/d5000/fujian_monitor/bin9:/home/d5000/fujian_monitor/bin:/home/d5000/fujian_monitor/bin[K:/home/d5000/fujian_monitor/bin[K9:/home/d5000/fujian_monitor/bin7:/home/d5000/fujian_monitor/bin
+root@10.35.4.97's password: 
+sgweb1:/home/d5000/fujian/src/platform/personal_test/wh/top4.0.2 # scp exe2_top3 10.35.4.97:/home/d5000/fujian_monitor/bin
+root@10.35.4.97's password: 
+exe2_top3                                                                                                                    0%    0     0.0KB/s   --:-- ETAexe2_top3                                                                                                                  100%  639KB 639.1KB/s   00:00    
+sgweb1:/home/d5000/fujian/src/platform/personal_test/wh/top4.0.2 # scp exe2_top3 10.35.4.97:/home/d5000/fujian_monitor/bin:/home/d5000/fujian_monitor/bin[K8:/home/d5000/fujian_monitor/bin
+root@10.35.4.98's password: 
+exe2_top3                                                                                                                    0%    0     0.0KB/s   --:-- ETAexe2_top3                                                                                                                  100%  639KB 639.1KB/s   00:00    
+sgweb1:/home/d5000/fujian/src/platform/personal_test/wh/top4.0.2 # scp exe2_top3 10.35.4.98:/home/d5000/fujian_monitor/bin[C[C[C[C:/home/d5000/fujian_monitor/bin[K:/home/d5000/fujian_monitor/bin[K5:/home/d5000/fujian_monitor/bin5:/home/d5000/fujian_monitor/bin
+root@10.35.4.55's password: 
+exe2_top3                                                                                                                    0%    0     0.0KB/s   --:-- ETAexe2_top3                                                                                                                  100%  639KB 639.1KB/s   00:00    
+sgweb1:/home/d5000/fujian/src/platform/personal_test/wh/top4.0.2 # scp exe2_top3 10.35.4.55:/home/d5000/fujian_monitor/bin[C:/home/d5000/fujian_monitor/bin[K65:/home/d5000/fujian_monitor/bin
+root@10.35.4.65's password: 
+exe2_top3                                                                                                                    0%    0     0.0KB/s   --:-- ETAexe2_top3                                                                                                                  100%  639KB 639.1KB/s   00:00    
+sgweb1:/home/d5000/fujian/src/platform/personal_test/wh/top4.0.2 # exit
+exit
